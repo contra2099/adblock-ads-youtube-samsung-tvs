@@ -1,0 +1,9 @@
+0.0.0.0 samsung.com
+0.0.0.0 samsungads.com
+0.0.0.0 www.samsung.net/ads
+0.0.0.0 config.samsungads.com
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungacr.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 ads.samsung.com
+0.0.0.0 gpm.samsungqbe.com
